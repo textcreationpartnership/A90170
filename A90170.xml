@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The orders for ecclesiasticall discipline. According to that which hath been practised since the reformation of the church in his Majesties dominions by the auncient ministers, elders, and deacons of the isles of Garnsey, Gersey, Spark, and Alderny. Confirmed by the the authority of the synode of the foresaid iles.</title>
+         </titleStmt>
+         <extent>Approx. 56KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90170</idno><idno type="EEBO-CITATION">99872474</idno>
+  <idno type="VID">156482</idno>
+  <idno type="EEBO-PROQUEST">2240952420</idno>
+  
+            <idno type="STC">Wing O399</idno>
+            <idno type="STC">Thomason E136_30</idno>
+            <idno type="STC">ESTC R373</idno>
+            <idno type="PROQUEST">99872474</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872474e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156482)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The orders for ecclesiasticall discipline. According to that which hath been practised since the reformation of the church in his Majesties dominions by the auncient ministers, elders, and deacons of the isles of Garnsey, Gersey, Spark, and Alderny. Confirmed by the the authority of the synode of the foresaid iles.</title>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156482:1"/>
+            <p>THE ORDERS FOR ECCLESIASTICALL DISCIPLINE.</p>
+            <p>According to that which hath been pra<g ref="char:EOLhyphen"/>ctised since the Reformation of the Church in his MAIESTIES Dominions by the aun<g ref="char:EOLhyphen"/>cient Ministers, Elders, and Deacons of the Iles of <hi>Garnsey, Gersey, Spark,</hi> and <hi>Alderny.</hi>
+            </p>
+            <p>Confirmed by the Authoritie of the Synode of the foresaid Iles.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Yeare, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:156482:2"/>
+            <pb n="1" facs="tcp:156482:2"/>
+            <head>OF THE CHVRCH IN GENERALL.</head>
+            <div n="1" type="chapter">
+               <head>CHAPTER I.</head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>
+                  <seg rend="decorInit">T</seg>He Church is the company of the faith<g ref="char:EOLhyphen"/>full, wherein is comprehended as well those which have publike charge, as al<g ref="char:EOLhyphen"/>so the rest of the Church.</p>
+               <p>
+                  <hi>Art.</hi> 2. No Church ought to pretend any superioritie or dominion over ano<g ref="char:EOLhyphen"/>ther, for all are equall in power, having one onely head, Jesus Christ.</p>
+               <p>
+                  <hi>Art.</hi> 3. The Leaders in the Christian Church, where the Magistrate is faithfull, are the faithfull Magistrates which have the civill government, and the Pastors, and such as watch over the flocke, which have the spirituall administration.</p>
+               <p>
+                  <hi>Art.</hi> 4. These two Governours are established by the ordinance of God, as necessary to the leading and up<g ref="char:EOLhyphen"/>holding of his Church in good order. The one having principally the charge and conduct of the body, and of the goods governed by civill Lawes, and by the materiall
+<pb n="2" facs="tcp:156482:3"/>sword. And the other having the charge of soules and consciences, to administer his charge by spirituall Lawes and by the sword of the word of God. These two go<g ref="char:EOLhyphen"/>vernments should be so united, that there should be no confusion of them, and so separated, that there should be no contrarietie, but to sustaine and maintaine one the o<g ref="char:EOLhyphen"/>ther by a good agreement, as the armes of one and the same body.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>Of the Magistrates.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> 1.</p>
+               <p>THe Magistrate ought to watch upon the body and goods of men, that above all he may procure that the honour and service of God may be maintained. And therefore as he punisheth murther and theft, and other sinnes against the second Table, so he should punish the blasphemers, contemners of God, and Idolaters, which sinne against the first Table. And all those (which con<g ref="char:EOLhyphen"/>trary to honesty and the publike peace) give themselves to dissolutenesse and unlawfull playes: as on the other side, he ought to preserve the good and advance them in riches and honour.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of Ecclesiasticall Charges in generall.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>AS touching the Ecclesiasticall Officers, the one have the charge of teaching, as the Pastors and Doctors; the other have their eye upon the manners of the flocke of Christ, as the Elders. The third kinde have the hand<g ref="char:EOLhyphen"/>ling and dispensation of the Ecclesiasticall goods and almes of the poore, as the Deacons.</p>
+               <pb n="3" facs="tcp:156482:3"/>
+               <p>
+                  <hi>Art.</hi> 2. The Officers of the Church shall be chosen by the Ministers and Elders, without depriving the peo<g ref="char:EOLhyphen"/>ple of their right, and by the same authoritie they shall be discharged or suspended and deposed according to that which is contained in the Chapter of the Censures.</p>
+               <p>
+                  <hi>Art.</hi> 3. None ought to thrust himselfe into an Eccle<g ref="char:EOLhyphen"/>siasticall Charge, without being lawfully called.</p>
+               <p>
+                  <hi>Art.</hi> 4. No Ecclesiasticall Officer ought to take any superioritie or dominion over his fellowes, that is to say, Minister over Minister, Elder over Elder, nor Deacon o<g ref="char:EOLhyphen"/>ver Deacon, which notwithstanding ought not to hin<g ref="char:EOLhyphen"/>der the honour or respect which the one oweth to the other, having regard to the age; or to the gifts and graces that God hath given to one more then to ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p>
+                  <hi>Art.</hi> 5. None shall be received to the Ecclesiasticall Charges, that are not indued with fit and proper gifts, to exercise the charge to which he is called, and that hath not good testimony of his life and conversation; of the which there shall be made diligent inquisition, before he be called thereunto.</p>
+               <p>
+                  <hi>Art.</hi> 6. All such as enter upon publike charge in the Church, shall signe and subscribe to the confession of the faith of the reformed Churches, and the Ecclesiasticall Discipline.</p>
+               <p>
+                  <hi>Art.</hi> 7. All those which shall be chosen to exercise publike charge in the Church, shall be first nominated to the right Worshipfull the Governours, or in their ab<g ref="char:EOLhyphen"/>sence to their Liefetenants, after whose approbation they shall be nominated to the people; And if there be no opposition against them, they shall be received to their charges within fifteene dayes after.</p>
+               <p>
+                  <hi>Art.</hi> 8. Before the presenting and installing of them which are called to the charge in the Church, they shall be admonished of that which concerneth as well their particular dutie, as also to be an ensample unto the peo<g ref="char:EOLhyphen"/>ple, inducing them to live holily and justly before God and men.</p>
+               <pb n="4" facs="tcp:156482:4"/>
+               <p>
+                  <hi>Art.</hi> 9. Albeit that all in generall ought to procure the honour and obedience due to the Kings Majestie, the Right Worshipfull the Governours and their Leifete<g ref="char:EOLhyphen"/>nants, and to the Masters the Justices; yet those which have charge in the Church, shall principally imploy themselves to this dutie to serve for an example to o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>
+                  <hi>Art.</hi> 10. Those which have charge in the Church cannot quite themselves from their charge, without the advice of the Consistory, unlesse they be discharged by the order by the which they have been established.</p>
+               <p>
+                  <hi>Art.</hi> 11. Those that have charge in the Church, shall doe their endeavour to visite the sicke and prisoners, to comfort them and all others which have need of conso<g ref="char:EOLhyphen"/>lation.</p>
+               <p>
+                  <hi>Art.</hi> 12. They ought not to reveale any thing of that which hath been handled in the Consistories, Colloques, or Synods, to the parties or others, unlesse they be com<g ref="char:EOLhyphen"/>manded.</p>
+               <p>
+                  <hi>Art.</hi> 13. Those that have charge in the Church, that deprive themselves of the Lords Supper, and refuse to be reconciled, and after they have been exhorted thereunto shall not obey, shall be deposed, and the causes of their deposition declared to the people.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Of the Ministers.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>NOne of those which aspire to the Ministery, shall be received to Preach the Word of God, the which are not endued with knowledge of good Letters, and well advanced in the knowledge of the tongues, Greeke, and Hebrew, if it be possible.</p>
+               <p>
+                  <hi>Art.</hi> 2. The Ministers shall judge of the proposants, having first of all examined them diligently of the prin<g ref="char:EOLhyphen"/>cipall
+<pb n="5" facs="tcp:156482:4"/>points of the doctrine most requisite for a Mini<g ref="char:EOLhyphen"/>ster: And having heard him intreat of the Scriptures (so often as they thinke to be necessary) if they be fit for the Ministery they shall be sent to the Churches which have need of them to preach the Word of God there, three or foure times with the head bare. And if the Church approve of them and desire them for Pastours, the Colloque shall depute to them a Minister for to install them in their charge with the laying on of hands.</p>
+               <p>
+                  <hi>Art.</hi> 3. Those Ministers sent or comming for refuge to these Iles, having good testimony of the places from whence they are departed, shall be imployed in the Chur<g ref="char:EOLhyphen"/>ches which have need of them, with the hand of fellow<g ref="char:EOLhyphen"/>ship given unto them.</p>
+               <p>
+                  <hi>Art.</hi> 4. Those which are chosen and received to the Ministery, are so to continue all their life long, unlesse they be deposed for some fault committed. And as for them which may be hindred by sicknesse or age to exer<g ref="char:EOLhyphen"/>cise their Ministery, the honour of their Ministery not<g ref="char:EOLhyphen"/>withstanding shall remaine unto them.</p>
+               <p>
+                  <hi>Art.</hi> 5. The Ministers which come for refuge shall be imployed in some Parish during the persecutions, and shall not depart without asking leave six moneths before, to the end that the Church should not be left without a Pastour.</p>
+               <p>
+                  <hi>Art.</hi> 6. The Ministers shall visite all the families of their flocke once a yeare at the least, yet alwayes at their discretion.</p>
+               <p>
+                  <hi>Art.</hi> 7. The Ministers shall propose the word of God every one in their order, and that once every moneth, in the day and place that shall be judged most commo<g ref="char:EOLhyphen"/>dious.</p>
+               <p>
+                  <hi>Art.</hi> 8. If there be any which is offended at the prea<g ref="char:EOLhyphen"/>ching of any Minister, he shall come to the foresaid Mi<g ref="char:EOLhyphen"/>nister within twentie-foure houres to be resolved: And if he cannot be satisfied by the said Minister, he shall re<g ref="char:EOLhyphen"/>paire to the Consistory within eight dayes, for want whereof he shall be no more admitted in his exception,
+<pb n="6" facs="tcp:156482:5"/>and if it be in matter of discord, the Ministers shall judge of it at the next conference.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>Of Doctors of Divinitie, and of School-Masters.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe office of a Doctor in the Church, is the nearest to a Pastors charge, and it is to explaine the Scriptures, by reading without application, by way of exhortation, and they shall be chosen by the Colloque.</p>
+               <p>
+                  <hi>Art.</hi> 2. The School-Masters shall first of all be nomi<g ref="char:EOLhyphen"/>nated by those to whom the right of Nomination doth belong, and they shall be examined by the company of Ministers, who taking knowledge of their learning, shall informe them also of their life, that is to say, if they be modest and not dissolute, to the end they may be an ex<g ref="char:EOLhyphen"/>ample to their Schollers, and that by evill doctrine they doe not bring in some sect into the Church. After which examination, if they be found fit to instruct the youth, they shall be presented to the people.</p>
+               <p>
+                  <hi>Art.</hi> 3. They shall instruct their Schollers in the feare of God, and good Letters, in modesty and honesty to traine up youths, that may be meet for the government of the Church and Common-wealth.</p>
+               <p>
+                  <hi>Art.</hi> 4. He shall teach Grammar, Rhetoricke, Lo<g ref="char:EOLhyphen"/>gicke, and other allowed Authors, the most purest in judgement and speech, least the children should draw out any venom out of filthy and unchaste writings.</p>
+               <p>
+                  <hi>Art.</hi> 5. If they know any one of their Schollers, of which they have hope, they shall exhort their parents to keepe them to the study of good Letters, or they shall make suite to the Right Worshipfull the Governours, or the Magistrates, that they may be kept of publike Charges.</p>
+               <p>
+                  <hi>Art.</hi> 6. They shall cause their Schollers to come to
+<pb n="7" facs="tcp:156482:5"/>the Sermons and Catechismes, and to answer being as<g ref="char:EOLhyphen"/>ked by the Ministers: and they shall have place neare to the Pulpit, to the end that being seene of all, they may carry themselves modestly in the Church of God.</p>
+               <p>
+                  <hi>Art.</hi> 7. The Ministers shall take good heed unto the School-Masters, that the youth be well instructed; and for that cause shall visit the Schollers two or three times in the yeare, the better to know how they have profited the children, and if it need they shall call one or two of the Ministers that are neerest.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>Of the Elders.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe Elders ought to conduct the people by good or<g ref="char:EOLhyphen"/>der with the Ministers, and shall be carefull that the Church be not unprovided of Pastors, of which they shall have providing, that they be honestly intertained, watching upon all the flocke, and especially upon the quarter over the which they are assigned by the Consi<g ref="char:EOLhyphen"/>story; imploying themselves diligently to admonish and reprehend those which faile, to confirme those which behave themselves well, and to accord those that are at discord.</p>
+               <p>
+                  <hi>Art.</hi> 2. They shall bring the Scandalles unto the Con<g ref="char:EOLhyphen"/>sistories.</p>
+               <p>
+                  <hi>Art.</hi> 3. They shall visit (as much as in them lieth) the families of their quarters every Communion, and once of the yeare with the Minister, to know how they are governed in their houses, and if they finde there any contentious and rebellious persons, that will not be re<g ref="char:EOLhyphen"/>conciled, they shall referre them to the Consistory.</p>
+               <p>
+                  <hi>Art.</hi> 4. They shall with the Ministers attend in the Consistories, which are holden every Sunday, if they may by any meanes, or other Commodious dayes, to
+<pb n="8" facs="tcp:156482:6"/>handle the Ecclesiasticall affaires. And those which shall be chosen to goe to the Colloques and Synods with the Ministers, shall not faile to come thither at the day assi<g ref="char:EOLhyphen"/>gned.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>Of Deacons.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe Deacons shall be ordained in the Church to gather the almes of the people, and to distribute them ac<g ref="char:EOLhyphen"/>cording to the necessitie of the poore, by the advice of the Consistory.</p>
+               <p>
+                  <hi>Art.</hi> 2. They shall gather together the almes after the Sermon, and shall procure and keepe faithfully, the goods of the poore. And if necessitie so require, they shall goe from house to house of those that are willing, to gather that which it shall please them to give.</p>
+               <p>
+                  <hi>Art.</hi> 3. They shall distribute nothing without the ad<g ref="char:EOLhyphen"/>vice of the Consistory, if there be not urgent necessitie.</p>
+               <p>
+                  <hi>Art.</hi> 4. The almes shall be distributed principally to those which are of the houshold of faith, and if there be any overplus, it may serve to helpe the strangers.</p>
+               <p>
+                  <hi>Art.</hi> 5. To meet with all suspition the Deacons shall keepe the Booke, as well of the receits as also of the di<g ref="char:EOLhyphen"/>stribution of the almes, the which they shall count in pre<g ref="char:EOLhyphen"/>sence of the Minister and of one of the Elders.</p>
+               <p>
+                  <hi>Art.</hi> 6. The Deacons shall render their accompts every Communion day after the latter Sermon, in the presence of the Ministers, the Ancients, and the people, if there be any that will assist them: And therefore they shall be exhorted to be present there.</p>
+               <p>
+                  <hi>Art.</hi> 7. They shall endeavour that the poore shall be nourished without going about a begging. And they shall make suite to the Governours, that the youth fit for labour, may be set to occupations: And shall advertise
+<pb n="9" facs="tcp:156482:6"/>the Masters, the Justices, to the end they may give order that none goe from house to house to beg.</p>
+               <p>
+                  <hi>Art.</hi> 8. They shall visite the poore, sicke, and impo<g ref="char:EOLhyphen"/>tent, and the prisoners, to comfort and assist them in their necessitie.</p>
+               <p>
+                  <hi>Art.</hi> 9. They shall be assistant to the Consistory with the Ministers and Ancients, and there shall propose the necessitie of the poore, and tell their advice: but in the choice of other Deacons, they shall have definitive voice.</p>
+               <p>
+                  <hi>Art.</hi> 10. There shall be two Deacons in every Parish, or else the Elders shall have this charge of gathering and distributing the almes of the people.</p>
+            </div>
+         </div>
+         <div type="articles">
+            <head>The Ecclesiasticall Liturgie, wherein is contained the Preaching of the Word, the Administration of the Sacraments, Marriage, the visitation of the Sicke, wherein also is spoken of Buriall.</head>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII. <hi>Of the Preaching of the Word.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe people shall assemble themselves twice every Sunday within the Church to heare the Gospell preached, and shall be assistant to the publike prayers: And also they shall assemble themselves once or twice every weeke upon the dayes, which shall be commo<g ref="char:EOLhyphen"/>dious for the Parishes: And every house-holder shall cause to be present his family.</p>
+               <p>
+                  <hi>Art.</hi> 2. The people being assembled before the Ser<g ref="char:EOLhyphen"/>mon, one shall reade a Chapter out of the Canonicall Scripture onely, and not out of the Apocrypha Bookes: and that it be done by one that hath charge in the Church, or of one of good conversation at the least.</p>
+               <pb n="10" facs="tcp:156482:7"/>
+               <p>
+                  <hi>Art.</hi> 3. During the time of prayers, every one shall kneele, having the head bare. Item during the time of singing of Psalmes, and the administration of the Sacra<g ref="char:EOLhyphen"/>ments, and whiles the Minister shall read his Text, eve<g ref="char:EOLhyphen"/>ry one shall be uncovered, and be attentive to that which is said and done of him.</p>
+               <p>
+                  <hi>Art.</hi> 4. At the publike Catechismes which the Mini<g ref="char:EOLhyphen"/>ster shall make on the Sunday after dinner, he shall chuse a Text out of the Word of God, which is agreeable unto the section he is to treate of, and shall reade in the begin<g ref="char:EOLhyphen"/>ning of the said Text, and shall have it for a foundation of the doctrine which shall be spoken of in the said se<g ref="char:EOLhyphen"/>ction.</p>
+               <p>
+                  <hi>Art.</hi> 5. The doores of the Church shall be shut after the Sermon and publike prayers, to wipe away all super<g ref="char:EOLhyphen"/>stition. And the sears shall be set in good order, that every one may commodiously understand the voice of the Minister preaching.</p>
+               <p>
+                  <hi>Art.</hi> 6. The Churches which are dedicated to the speciall service of God, shall not be imployed to any pro<g ref="char:EOLhyphen"/>phane uses: And the Magistrate shall be desired that he would not hold there any civill jurisdiction.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. <hi>Of Baptisme.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe holy Baptisme shall be administred in the Church after the preaching of the Word of God, before the blessing.</p>
+               <p>
+                  <hi>Art.</hi> 2. The Fathers of the children (if they be not upon a voyage) shall with the witnesses stand neere to the child, to present it to God, and make promise for the instruction of it, as they are bound there to doe.</p>
+               <p>
+                  <hi>Art.</hi> 3. None shall be received to present a childe at the Baptisme, unlesse he have received the Lords Sup<g ref="char:EOLhyphen"/>per,
+<pb n="11" facs="tcp:156482:7"/>or else if he be not fit to receive it, and that he make promise to doe it at the next Communion, whereof (if he be a stranger) he shall bring testimony.</p>
+               <p>
+                  <hi>Art.</hi> 4. He which would present a childe to be Bap<g ref="char:EOLhyphen"/>tised, shall advertise the Minister in good time.</p>
+               <p>
+                  <hi>Art.</hi> 5. The Minister shall not receive the names of Heathen, of Idolls, names attributed to God in the Scripture, neither the names of Office, as Angels, Baptist, Apostle.</p>
+               <p>
+                  <hi>Art.</hi> 6. Every Parish shall register all their Baptismes, of the Fathers, Mothers, and Witnesses of children, and of the day wherein they were baptized; and likewise of the Marriages and of the dayes; all which shall be care<g ref="char:EOLhyphen"/>fully kept.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. <hi>Of the Lords Supper.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe holy Supper of our Lord Jesus Christ, shall be celebrated foure times in the yeare; at Easter, or the first Sunday of Aprill: the first Sunday of July: the first Sunday of October; and the first Sunday of Januarie: And this shall be done after the Sermon, the which shall be made expresly of this matter, or at the least shall be touched at the latter end of the Sermon.</p>
+               <p>
+                  <hi>Art.</hi> 2. They shall follow this order; The Table shall be set in some commodious place by the Pulpit, where they shall communicate in order, being set, which is most conformable to the first institution, or standing, as it is the custome of some Churches, the men first, and the women after, and none shall goe away till after the thankesgiving and blessing of the people.</p>
+               <p>
+                  <hi>Art.</hi> 3. Those which would communicate at the ho<g ref="char:EOLhyphen"/>ly Supper, shall be catechised first of all by the Minister, to render a reason of their faith. They ought to know
+<pb n="12" facs="tcp:156482:8"/>the Lords Prayer, the Articles of their faith, and the ten Commandements, at the least the substance of them; and renounce the Pope, the Masse, and all Idolatry and Superstition.</p>
+               <p>
+                  <hi>Art.</hi> 4. None shall be received to the holy Supper, which is not of age and discretion, and which hath not good testimony of his life and conversation, and which doth not promise to subject himselfe to the discipline.</p>
+               <p>
+                  <hi>Art.</hi> 5. If there be any which is accused in justice to have committed some crime, he shall be exhorted to ab<g ref="char:EOLhyphen"/>staine from the Communion, till such time as he shall be justified.</p>
+               <p>
+                  <hi>Art.</hi> 6. There shall not be received to the Lords Sup<g ref="char:EOLhyphen"/>per any of other Parishes without good testimony from his Pastor, or of two of the Elders where there is no Minister.</p>
+               <p>
+                  <hi>Art.</hi> 7. Those that will not be reconciled, shall be de<g ref="char:EOLhyphen"/>prived of the Lords Supper.</p>
+               <p>
+                  <hi>Art.</hi> 8. They shall advertise the people at the least fifteene dayes before the Lords Supper, to the end they may be prepared for it.</p>
+               <p>
+                  <hi>Art.</hi> 9 Besides the former examination, which is made of the doctrine before they communicate unto the holy Supper, every one ought againe to be catechised once a yeare at the least, according to the commoditie of the Ministers and Parishioners.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. </head>
+               <div type="part">
+                  <head>Of the Fast.</head>
+                  <p>
+                     <hi>Article</hi> I.</p>
+                  <p>THe publike fast shall be celebrated in the Church, what time the Colloque or Synode shall thinke it meete, as a day of rest, in which there shall be Sermons in the forenoone and afternoone, with prayers, the read<g ref="char:EOLhyphen"/>ing of the word of God, and singing of Psalmes, all most
+<pb n="13" facs="tcp:156482:8"/>meete for the occasions and causes of the Fast, and all by the authoritie of the Magistrate.</p>
+               </div>
+               <div type="part">
+                  <head>Of Thankesgiving.</head>
+                  <p>
+                     <hi>Art.</hi> 2. The solemne thankesgiving must be celebra<g ref="char:EOLhyphen"/>ted in like manner, as the Fast: all the exercises being fit<g ref="char:EOLhyphen"/>ted to the occasions and causes of it.</p>
+               </div>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. <hi>Of Marriage.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe promises of Marriages shall be made in the pre<g ref="char:EOLhyphen"/>sence of the Parents friends, Governours, or Masters or Mistresses of the parties, and with consent of them, and in the presence of the Minister, or of one Elder or Deacon, who shall receive the promises pure and simple, with invocation of the name of God, otherwise they shall not be received. And as for those that are at their owne libertie, the presence of the Minister or one of the Elders or Deacons is also necessary for the policie.</p>
+               <p>
+                  <hi>Art.</hi> 2. The children and those which are under Go<g ref="char:EOLhyphen"/>vernment, cannot make any promise of Marriage with<g ref="char:EOLhyphen"/>out the consent of their Fathers and Mothers, or of their Tutors, or of their Gardians, in whose power they are.</p>
+               <p>
+                  <hi>Art.</hi> 3. If the Fathers and Mothers are so unreasona<g ref="char:EOLhyphen"/>ble that they will not accord to so holy a thing, the Con<g ref="char:EOLhyphen"/>sistory shall give them such advice as shall be expedient, to the which if the Fathers and Mothers will not agree, they shall have recourse to the Magistrate.</p>
+               <p>
+                  <hi>Art.</hi> 4. Even those which have beene married, owe this honour to their parents, not to marry themselves <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithout the advice of their parents, for want whereof they shall be censured.</p>
+               <p>
+                  <hi>Art.</hi> 5. Those which shall be betrothed, shall promise
+<pb n="14" facs="tcp:156482:9"/>with their parents that they shal be married within three moneths after their promises are made, or within six moneths, in case they be in a voyage. And if they will not obey, they shall be pursued by the Ecclesiasticall Censures.</p>
+               <p>
+                  <hi>Art.</hi> 6. No stranger shall be betrothed, unlesse he have leave of the Right Worshipfull the Governours, or their Leiftenants.</p>
+               <p>
+                  <hi>Art.</hi> 7. In marriages the degrees of consanguinitie and affinitie shall be diligently observed according to the law of God.</p>
+               <p>
+                  <hi>Art.</hi> 8. The publication of Matrimony shall be de<g ref="char:EOLhyphen"/>clared three Sundayes, one after another immediately in the Church where the parties dwells, or if they marry in some other Parish, they shall bring good testimony from the Minister that shall have published them, otherwise they cannot be married.</p>
+               <p>
+                  <hi>Art.</hi> 9. To avoyde the abuse and prophanation of the day of Rest, and the manifest contempt of the Word of God, which is made in the marriage-dayes, it is thought good that marriage be no more celebrated upon Sun<g ref="char:EOLhyphen"/>day, but on the weeke dayes onely when there is a Ser<g ref="char:EOLhyphen"/>mon.</p>
+               <p>
+                  <hi>Art.</hi> 10. If any will oppose himselfe against the pub<g ref="char:EOLhyphen"/>lication of Matrimony, they must addresse themselves to the Minister first, or to two of the Elders, which shall signifie it to the next Consistory, to come and give the reasons of his opposition: Of which the Consistory shall judge: And if there be any appeale, it shall be referred to the Colloque.</p>
+               <p>
+                  <hi>Art.</hi> 11. Those which have companied together be<g ref="char:EOLhyphen"/>fore they are married, shall not be married before they have made confession of their fault; and if the fault be o<g ref="char:EOLhyphen"/>penly knowne, they shall doe it before all the Church: And if it be lesse knowne, the Consistory shall give order for it.</p>
+               <p>
+                  <hi>Art.</hi> 12. The promises of Widdowes that would re<g ref="char:EOLhyphen"/>marry themselves, shall not be received but six moneth
+<pb n="15" facs="tcp:156482:9"/>after the death of their deceased husband, that both for the honestie and well seemlinesse, and to meet with ma<g ref="char:EOLhyphen"/>ny inconveniences. As for the men, they shall be ex<g ref="char:EOLhyphen"/>horted to stay a certain time also, without constraining them thereunto.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>Of the Visitation of the sicke.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THose which have sicke folke, shall advertise those which have charge in the Church in commodious time to this end, that they may be visited and com<g ref="char:EOLhyphen"/>forted.</p>
+               <p>
+                  <hi>Art.</hi> 2. Those which are sicke shall be advertised to make their will in good time, and whilst they are in their good sense, which shall be done in the presence of the Minister or Elder, or some other able men, and worthy of faith, which shall seale the said Testament, to this end they may be approved.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV. <hi>Of Buriall.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe dead bodies shall not be brought nor made enter into the Churches: but into the Church-yard ordai<g ref="char:EOLhyphen"/>ned for the faithfull.</p>
+               <p>
+                  <hi>Art.</hi> 2. The kinsfolke, friends, and neighbours of the dead, and as many as the kinsfolkes will pray, even the Ministers, if they be at leisure, as members of the Church and brethren, not in regard of their charge, no more than the Elders and Deacons, and shall goe to conduct the dead corps, for the comelinesse of the buriall: At the
+<pb n="16" facs="tcp:156482:10"/>which there shall be neither Sermon, nor prayer, nor ringing of Bells, neither any kinde of other ceremony.</p>
+               <p>
+                  <hi>Art.</hi> 3. The dead shall not be buried without adver<g ref="char:EOLhyphen"/>tising of the Minister before.</p>
+               <p>
+                  <hi>Art.</hi> 4. The dead corps of those which are excom<g ref="char:EOLhyphen"/>municated shall not be buried among the faithfull with<g ref="char:EOLhyphen"/>out ordinance of the Magistrate.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAPTER XV. <hi>Of Ecclesiasticall Censures.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>ALL those which are of the Church shall be subject to the censures, as well those which have charge in the Church, as those which have no charge.</p>
+               <p>
+                  <hi>Art.</hi> 2. The suspention from the holy Supper of the Lord, shalbe published only in matter of heresie, schisme, or other notable fault, of which the Consistorie shall judge.</p>
+               <p>
+                  <hi>Art.</hi> 3. Those which shall not receive the advertise<g ref="char:EOLhyphen"/>ments and reprehensions of faults made by the Word of God, and which continue hardened, without hope of being brought into the right way after many exhorta<g ref="char:EOLhyphen"/>tions, if they cannot be brought againe they shall be ex<g ref="char:EOLhyphen"/>communicated: whereunto shall be proceeded by three Sundayes, according to the order as followeth.</p>
+               <p>
+                  <hi>Art.</hi> 4. The first Sunday every one shall be exhorted to pray for the sinner, without naming or declaring the sinne, or the sinner.</p>
+               <p>
+                  <hi>Art.</hi> 5. The second Sunday the sinner shall be named and not the sinne: the third Sunday the sinner shall be named and the sinne declared, and he excommunicated, which shall so continue as long as he remaineth rebel<g ref="char:EOLhyphen"/>lious.</p>
+               <p>
+                  <hi>Art.</hi> 6. Those which are excommunicated, are re<g ref="char:EOLhyphen"/>jected of the Church, that they ought not to be admit<g ref="char:EOLhyphen"/>ted
+<pb n="17" facs="tcp:156482:10"/>either to publick prayers, or unto the preaching of the Word.</p>
+               <p>
+                  <hi>Art.</hi> 7. If any having publick charge in the Church, shall commit any fault which in a private person meri<g ref="char:EOLhyphen"/>teth publick suspention from the Lords Supper, they shall be suspended from their charge, and if they com<g ref="char:EOLhyphen"/>mit any fault the which in a private person meriteth ex<g ref="char:EOLhyphen"/>communication they shall be deposed.</p>
+               <p>
+                  <hi>Art.</hi> 8. And likewise those which have committed any such fault, by the which they are made uncapable of exercising their charge to the edification of the Church, shall be deposed.</p>
+               <p>
+                  <hi>Art.</hi> 9. If the sinner commeth to repentance, desi<g ref="char:EOLhyphen"/>ring of the Consistory to be received to the peace of the Church, diligent information must be had of his con<g ref="char:EOLhyphen"/>versation, and shall advise the people thereof the Sunday before he be received, and make confession to have peace of the Church.</p>
+               <p>
+                  <hi>Art.</hi> 10. The second Sunday he shall present himselfe before the Pulpit, and shall confesse his fault, asking par<g ref="char:EOLhyphen"/>don of God and of the Church by his owne mouth, in ratifying onely that which the Minister shall have said of his repentance.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI. <hi>Of the Ecclesiasticall Assemblies for the guiding and governing of the Church.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>IN all Ecclesiasticall Assemblies the Ministers shall be Moderators, to gather the voyces, to impose silence, and to give sentence according to the pluralitie, and to give the Censures; to the which they shall be subject as well as others.</p>
+               <p>
+                  <hi>Art.</hi> 2. All Censures shall be done in meeknesse of spi<g ref="char:EOLhyphen"/>rit and doctrine.</p>
+               <pb n="18" facs="tcp:156482:11"/>
+               <p>
+                  <hi>Art.</hi> 3. All Assemblies shall be begun and ended by prayers and thankesgiving; and it shall be done by him that is then Moderator.</p>
+               <p>
+                  <hi>Art.</hi> 4. All those which there shall be assistant, shall speake by order, without interrupting one of the o<g ref="char:EOLhyphen"/>ther.</p>
+               <p>
+                  <hi>Art.</hi> 5. None shall depart from the Assembly without leave.</p>
+               <p>
+                  <hi>Art.</hi> 6. All Ecclesiasticall matters there shall be in<g ref="char:EOLhyphen"/>treated of, and decided by the Word of God, without taking upon them any civill Jurisdiction.</p>
+               <p>
+                  <hi>Art.</hi> 7. If there come any matter of importance, which cannot be decided in the lesser Assemblies, they shall be sent to the greater. And likewise if any man doe feele himselfe grieved with the judgement of the lesser, he may appeale to the greater: And there shall be no<g ref="char:EOLhyphen"/>thing in the greater handled, which hath not been hand<g ref="char:EOLhyphen"/>led before in the lesser, unlesse it be in a matter which is remitted.</p>
+               <p>
+                  <hi>Art.</hi> 8. For all the things that are memorable in all the Assemblies, there shall be a Register made, which shall be done by a Scribe appointed in every one of the Assemblies.</p>
+               <p>
+                  <hi>Art.</hi> 9. The Ecclesiasticall Assemblies shall not be daysmen in causes and matters civill, yet the particular members of it as private persons may, but yet very rare<g ref="char:EOLhyphen"/>ly, when it is for making an end of debate, and the same of great consequence.</p>
+               <p>
+                  <hi>Art.</hi> 10. He which hath been deprived of the Com<g ref="char:EOLhyphen"/>munion, or suspended from his Charge by an assembly, shall be reestablished by the same.</p>
+               <p>
+                  <hi>These Assemblies are either simple, or com<g ref="char:EOLhyphen"/>pound; simple, as the Consistories.</hi>
+               </p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="19" facs="tcp:156482:11"/>
+               <head>CHAP. XVII. <hi>Of the Consistories.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe Consistory is the assembly of the Ministers and Elders of every Church, for the Government of it, and to watch over the manners and doctrine, and to cor<g ref="char:EOLhyphen"/>rect the vices, and encourage the well-doers, where the Deacons, together with the proposants, may be assistant to the Ministers, to the end to fashion them in the disci<g ref="char:EOLhyphen"/>pline and guiding of the Church.</p>
+               <p>
+                  <hi>Art.</hi> 2. The Consistories are to be assembled every Sunday, or other dayes and houres ordained, according to the commoditie of the Consistories, to consult of the affaires of the Church.</p>
+               <p>
+                  <hi>Art.</hi> 3. None shall be called to the Consistory without the advice of the Minister and of two Elders, in case of necessitie at the least: and every Elder or he that giveth sommance, shall call them of his quarter, as shall be ordained.</p>
+               <p>
+                  <hi>Art.</hi> 4. The Elders shall not report the secret faults, not having observed the order commanded by Jesus Christ, <hi>Matth.</hi> 18. Reprehending in secret the faults that are secret.</p>
+               <p>
+                  <hi>Art.</hi> 5. The Minister or Elders shall not name to the Consistorie, those whose faults they shall bring to the Consistorie, without the advice of the said Consistorie.</p>
+               <p>
+                  <hi>Art.</hi> 6. The censures of the Consistorie shall be gi<g ref="char:EOLhyphen"/>ven before every Communion in the most commodious day; wherein the School-Masters also shall be censu<g ref="char:EOLhyphen"/>red.</p>
+               <p>
+                  <hi>Art.</hi> 7. The Consistorie shall choose those which ought to goe to the Colloques.</p>
+               <p>
+                  <hi>Art.</hi> 8. The correction of faults and offences, apper<g ref="char:EOLhyphen"/>taineth to the Consistories, excommunication excepted.</p>
+               <pb n="20" facs="tcp:156482:12"/>
+               <p>
+                  <hi>Art.</hi> 9. In Ecclesiasticall Assemblies the Consistories shall make inquisition of the faults which shall come be<g ref="char:EOLhyphen"/>fore them; and shall adjure the parties in the name of God to speake the truth.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>CHAP. XVIII. <hi>Of the composed Assemblies, which are the Colloques and the Synods.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>AT the beginning of the Assembly there shall be cal<g ref="char:EOLhyphen"/>led the Minister and the Elders, which ought to be assistants there.</p>
+               <p>
+                  <hi>Art.</hi> 2. The persons who are named to be assistants shall not misse to be present there, upon paine to be cen<g ref="char:EOLhyphen"/>sured at the next assembly, unto the which they shall be called.</p>
+               <p>
+                  <hi>Art.</hi> 3. The Articles of the former assemblies shall be read before they enter the affaires, to the end to know if they have been executed: And at the end of every assem<g ref="char:EOLhyphen"/>bly the Elders shall take a copie of that which hath been determined there: to the end that all may walk after the same rule.</p>
+               <p>
+                  <hi>Art.</hi> 4. In every Assembly there shall be a Scribe to write that which shall be resolved of by the Compa<g ref="char:EOLhyphen"/>ny.</p>
+               <p>
+                  <hi>Art.</hi> 5. At the end of every assembly they shall give a brotherly censure of the Consistories, in generall of the Ministers and Elders, which shall be assistant there, and principally of that which hath been done in the assembly during the action.</p>
+               <p>
+                  <hi>Art.</hi> 6. The excommunication shall be onely conclu<g ref="char:EOLhyphen"/>ded in these assemblies.</p>
+               <p>
+                  <hi>Art.</hi> 7. The Masters the Justices shall be prayed to cease the exercise of Courts, ordinary and extraordinarie in the dayes of the Colloques and Synods, to this end
+<pb n="21" facs="tcp:156482:12"/>that they which ought to be there assistant may not be hindred.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX. <hi>Of the Colloques.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe Colloque in the Assembly of the Ministers and Ancients deputed of every Church, in every one of the Governments of those Iles, for the government and entertainment of the Discipline.</p>
+               <p>
+                  <hi>Art.</hi> 2. The Colloques shall be assembled foure times in the yeare; ten dayes before every Communion: In which day there shall be the proposition of the Word of God, following the forme which is before established in the Chapter of Ministers.</p>
+               <p>
+                  <hi>Art.</hi> 3. The Ministers of <hi>Alderney</hi> and <hi>Sparke,</hi> shall meet once a yeare at the least, at the Colloque at <hi>Gernsey,</hi> and they shall choose the most fit time to come in.</p>
+               <p>
+                  <hi>Art.</hi> 4. The Colloque shall choose those which ought to goe to the Synode, and shall give them Letters testi<g ref="char:EOLhyphen"/>moniall of their sending.</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX. <hi>Of the Synod's.</hi>
+               </head>
+               <p>
+                  <hi>Article</hi> I.</p>
+               <p>THe Synode is the Assemblie of Ministers and Elders, deputed by the Colloques of these Iles.</p>
+               <p>
+                  <hi>Art.</hi> 2. The Synode shall be assembled from two yeares to two yeares, in <hi>Gersey</hi> and <hi>Garnsey</hi> by course, unlesse necessitie doe constraine to assemble it sooner: In which case those of the Ile where the Synode is to be holden, may hasten it by the advice of both the Collo<g ref="char:EOLhyphen"/>ques.</p>
+               <pb n="22" facs="tcp:156482:13"/>
+               <p>
+                  <hi>Art.</hi> 3. In every Synode there shall be chosen a Mini<g ref="char:EOLhyphen"/>ster to governe the action, and a Scribe to register the actions.</p>
+               <p>
+                  <hi>Art.</hi> 4. The Minister of the place where the assembly is made, shall make a prayer in the beginning of the first sitting.</p>
+               <p>
+                  <hi>Art.</hi> 5. The Colloques shall mutually advertise one another of the generall things they have to propose to the Synode in commodious time, to this end that every one may have time to think of it more ripely. And they shall give some advertisement thereof before the Collo<g ref="char:EOLhyphen"/>que, which goeth next before the Synode, so farre as they may: And as for things of smaller importance, they shall be communicated of in the day of the first sitting.</p>
+               <p>
+                  <hi>These Articles touching the Discipline, are so set downe that so much and so farre as they are grounded upon the Word of God, they are immoveable: And as for the points that are meerely Ecclesiasticall, that is to say, framed and set downe for the commoditie of the Church, according to the circumstance of persons, time, and place, they may be changed by the same au<g ref="char:EOLhyphen"/>thoritie they have been instituted.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="oaths_and_prayers">
+            <head>Here followeth the manner of Installing the Officers of the Church.</head>
+            <div type="oath">
+               <head>The Promise in generall.</head>
+               <p>YOu promise before God, his elect Angels, and his Church, that you will serve him faithfully in this Office, taking heed to your selfe, to this end, that in this vocation of God, you may walke worthily, so as it be<g ref="char:EOLhyphen"/>commeth a good servant of God, without abusing it to serve your owne affections, or to be pleasing unto mee, but that you use it with a good conscience, carrying all
+<pb n="23" facs="tcp:156482:13"/>that you doe in this office to the glory of God, and to the edification of the Church, principally of that over which you are set: giving in all things good example unto all, namely, in keeping and taking good heed to the pollicy as well Ecclesiasticall as Civill, procuring the good and honour of the Kingdome of <hi>England</hi> and of the Ile: taking paines that the people may live in good order, peace and union one with another, and in subjection and obedience to the Government of his Majestie, the right Worshipfull the Governours, his Liestenant, the Bailiefe, and the Justices, not consenting to any thing which is repugnant to the Lawes Civill, Pollicy of the Countrey and Kingdome, and the Ecclesiasticall Censures. All which you shall doe so farre as your office doth require, that is to say, without being prejudiciall to the libertie of a good conscience.</p>
+               <p>Furthermore, You shall not abandon or leave off your Charge for any discontentment, or tediousnesse, or any thing whatsoever: unlesse it be by the consent of the Consistory, or other to whom it appertaineth: At which Consistory you shall attend (if there be no hinderance) the Sunday, after the Catechisme to handle the Ecclesi<g ref="char:EOLhyphen"/>asticall affaires: And you shall take heed of not disclo<g ref="char:EOLhyphen"/>sing any thing that hath been handled, to the parties or any other persons (unlesse it be that they ought to know it) in paine of being rejected from the Company: Re<g ref="char:EOLhyphen"/>membring alwayes that you must render an account of the charge which hath been committed unto you; to the end that you may heare his most amiable voice, <hi>It is well done good servant, enter into the joy of thy Lord.</hi> Finally, that which toucheth you most neerly in regard of the particu<g ref="char:EOLhyphen"/>lar charge you are called unto.</p>
+            </div>
+            <div type="oath">
+               <head>Promises Common to Ministers of the Word of God, and to the Elders.</head>
+               <p>YOu doe promise that you will feed and governe the flocke of Christ, which is committed unto you,
+<pb n="24" facs="tcp:156482:14"/>which is his house, according to the pollicy that our Lord Jesus Christ hath established in his Church, in ha<g ref="char:EOLhyphen"/>ving a care not by constraint, but willingly and with a ready courage, not for gaine or unseemely honour, but onely having regard to the glory of God, and to the sal<g ref="char:EOLhyphen"/>vation of the people: Not raigning over the Church, but in humilitie and feare, following the Word of God.</p>
+               <p>You promise also to have an eye and watch upon the flocke, to admonish and comfort in particular, according as neede requires: Also to reprehend the private faults, and to bring to the Consistorie the publick faults; to the end the scandalls of the Church may be hindred.</p>
+               <p>You shall attend the Colloques and Synodes at all times, when you shall be deputed thereunto, revealing nothing of that which hath been handled to the parties, or any of the persons, unlesse they ought to know it, upon paine to be rejected from the company.</p>
+               <p>You promise to take carefull heed of the accompts of the Deacons at the Communion day, or at least at the Communion dayes of September and Easter, and that after the second Sermon of the Sabbath; in which day ordinarily there is no Consistorie kept, or else the Sun<g ref="char:EOLhyphen"/>day following, according to the opportunitie of the Church.</p>
+            </div>
+            <div type="oath">
+               <head>A Promise particular to the Minister of the Word.</head>
+               <p>YOu promise that you will deliver the most holy Word, and Sacraments of God, in all faithfulnesse, purenesse, and reverence, that you will take paines in teaching the people which are capable, in convincing those which contradict, in casting downe the proud, in erecting and lifting up the humble, in bringing againe those that are strayed out of the way, in cutting rightly the word of truth, as a good workman, which needeth
+<pb n="25" facs="tcp:156482:14"/>not be ashamed, and as a good and wise Steward of the House of the Lord, distributing the spirituall meate as well to every one apart, according to his abilitie, as in common to all the family. You shall doe this in all dili<g ref="char:EOLhyphen"/>gence, being earnest in time and out of time: And for this cause you promise to follow with all care and dili<g ref="char:EOLhyphen"/>gence, all meanes and helpes of studie, things proper to execute &amp; honour your said Ministery, which notwith<g ref="char:EOLhyphen"/>standing shall be done in all simplicitie and easinesse, as well in words as in sentences, to this end, that the rudest and most unlearned, and the Church may be edified by it. Above all, you shall imploy your selfe in studying the holy Scriptures, to this end, that being well instructed touching the Kingdome of Heaven, you may be like a good Father of a Family, who is able to draw out of his treasure both old and new things.</p>
+            </div>
+            <div type="oath">
+               <head>A Promise particular to the Elders.</head>
+               <p>YOu promise to be assistant unto the Ministers of the Word, for the Government of the Church, over the which you are appointed, and shall take heed to the Mi<g ref="char:EOLhyphen"/>nistery of the Word; First, that the Church be not un<g ref="char:EOLhyphen"/>provided, and that being established it may be reveren<g ref="char:EOLhyphen"/>ced, and therefore you shall have an eye to them as well for the holy doctrine, as for their holinesse of life, and af<g ref="char:EOLhyphen"/>terwards upon the rest of the Church, especially upon those which are committed more neerly to your charge. And therefore if there shall come any discord between any of your quarter, you shall endeavour to accord them by good and brotherly advisement, and if they will not obey, you shall summon them to come to the Consisto<g ref="char:EOLhyphen"/>rie to have some convenient remedy thereof, which you shall doe principally in the Visitation before the Com<g ref="char:EOLhyphen"/>munion: Also you shall goe at every Communion throughout all the Families of your quarter, as well to
+<pb n="26" facs="tcp:156482:15"/>your neighbours, as those that are of your own hous<g ref="char:EOLhyphen"/>hold, to know whether they live in the feare of God, whether they frequent preaching, if they doe pray in their houses, their particular prayers evening and mor<g ref="char:EOLhyphen"/>ning, before and after meate.</p>
+               <p>Furthermore, You doe promise to visit the sicke of your quarter, and when there shall be need, you shall call with you the Ministers of the Word to comfort them; finally, you shall procure that all things in the assemblies may be done in good order and seemlinesse.</p>
+            </div>
+            <div type="oath">
+               <head>A Promise particular to Deacons.</head>
+               <p>YOu promise to receive, dispence, and keepe faithfully, and without deceipt or acceptation of persons, the goods which are given to the poore; you shall gather the almes of the poore given by the people at the going out of the Church after the Sermons, and especially on the Sabbath day: And if that necessitie so require (because of some extraordinary need) you shall goe by the houses of those which are willing, to gather some corne or o<g ref="char:EOLhyphen"/>ther almes, according to the good will or discretion of well disposed people. And to wipe away all evill suspiti<g ref="char:EOLhyphen"/>on, you shall count out of hand the almes received (which shall be set down in writing) in the presence of the Mini<g ref="char:EOLhyphen"/>sters, and one or two of the Elders: And for this cause you shall have a Booke, wherein to Register as well the things that are received as those that are laid out.</p>
+               <p>You doe promise that you will not give any almes without communicating it unto the Ministers and the Elders, that you distribute the almes, first of all unto those that are of the houshold of faith; and if there be any overplus, you may let it run down unto strangers from the Church.</p>
+               <p>You do promise to visit the poore, sicke, and to cause them to be tended and looked unto, and to inquire of the
+<pb n="27" facs="tcp:156482:15"/>necessitie of other poore, principally of your quarter, and to the end that they may be nourished by the almes of the Church, without letting them wander and range about the streets, or other Parishes. And you shall pro<g ref="char:EOLhyphen"/>cure that those which are meet to be put to occupation, that they may be imployed, of the which, you shall ad<g ref="char:EOLhyphen"/>vertise the Constables, or those which have the charge of Justice, to the end that they may not be suffered to beg.</p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer Common for all the Officers of the Church.</head>
+               <p>OH Lord God, Father of light, from whom commeth every good and perfect gift, we doe pray thee most humbly in the name and favour of Jesus Christ, thy one<g ref="char:EOLhyphen"/>ly Sonne our Saviour, who being ascended into heaven in glory, doth not cease to inlarge towards us thy grati<g ref="char:EOLhyphen"/>ous liberalitie of Officers, for the work of the Ministery, and building of thy mysticall bodie, wee most humbly pray thee, that seeing it hath pleased thee to call this our brother to the service of the Church, that thou wouldest so fashion and fit him to so holy a charge, that he may quit himselfe in all diligence, imploying himselfe faith<g ref="char:EOLhyphen"/>fully and with a fervent zeale to all that which belongeth unto his charge. Give him prudency to governe him<g ref="char:EOLhyphen"/>selfe well in it, and force to execute all things that apper<g ref="char:EOLhyphen"/>taine to him in regard of his office. Above all things, fill him with the spirit of thy feare, to the end that he may be preserved from all scandall, confusion, and the allurements of this present world, of the snares and am<g ref="char:EOLhyphen"/>bushments of Sathan, giving him patience and constan<g ref="char:EOLhyphen"/>cy, that he may acquit faithfully his dutie as much as humane frailtie may suffer: Blesse thou his labour, to the end that nothing hinder the holy worke which is in his hands; Shew also this grace to every one of us, to ac<g ref="char:EOLhyphen"/>knowledge
+<pb n="28" facs="tcp:156482:16"/>him as set and ordained of thy hand in this most holy vocation, that we may be led by him, with<g ref="char:EOLhyphen"/>out withstanding the order thou hast established in thy Charge: And that by this means remaining in thy obe<g ref="char:EOLhyphen"/>dience, thou mayst be glorified in us, and thy Church may receive continuall growth, to the good and salvati<g ref="char:EOLhyphen"/>on of thy children:</p>
+               <p>Proper to the Minister of the Word.</p>
+               <p>And in regard of his particular Charge, we most humbly pray thee, that this our brother which thou hast called to the Ministery of thy holy Word, to the which even the holy Angells are insufficient, thou wouldest enlarge him with the true keowledge of the wonderfull secrets thereof, and with a singular wisdome, by the which he may know how to dispence and apply to every one, ac<g ref="char:EOLhyphen"/>cording to the circumstance of time, of places, and prin<g ref="char:EOLhyphen"/>cipally of persons, that he may have his mouth opened to declare in all libertie and boldnesse, truly spirituall, the mystery of the Gospell; As also all that which is meete for him to declare; And also to administer the holy Sa<g ref="char:EOLhyphen"/>craments in all puritie and reverence: Give to every one of us this grace, that we may receive as well the one as the other, in all humilitie and trembling of heart, not as comming from men, but (as the truth is) comming from thee the living God, thereby to be quickned eternally to</p>
+               <p>Proper to the Elders.</p>
+               <p>be an Elder and watchman, graunt thou that he being given for helpe to the Ministers of the Word in the go<g ref="char:EOLhyphen"/>vernment, and as the eares of the body of the Church, he may apply himselfe with such diligence to know the e<g ref="char:EOLhyphen"/>state as well of the faith as of the manners of the flocke, principally of those over the which he hath more parti<g ref="char:EOLhyphen"/>cular charge, that by this meanes he may as well admo<g ref="char:EOLhyphen"/>nish, reprehend, comfort, and encourage every one, ac<g ref="char:EOLhyphen"/>cording as there is need; as also to certifie the Ministers of the Word of it, that the Ministers by help thereof may with more profit addresse their doctrine to the Church of God. Give also this grace to every one of us, that we
+<pb n="29" facs="tcp:156482:16"/>may obey and reverence him as well in private admoni<g ref="char:EOLhyphen"/>tions, as the rest of the guiding of the Church, as a father whom God hath set to watch over our soules, to this end he may doe it with cheerfulnesse and not with griefe to</p>
+               <p>Proper to Deacons.</p>
+               <p>be a Deacon, that thou wouldest graunt him thy Spirit, first of simplicitie, to distribute the treasure of the church without acceptation of persons; and then the spirit of dis<g ref="char:EOLhyphen"/>cretion, to discern of the estate of every one of the poore, and especially of those which are of his quarter. Finally, and above all, the spirit of compassion, to execute his du<g ref="char:EOLhyphen"/>tie towards the poore (principally towards the sicke and weake) in all joy and readninesse, to the end they be not put to further sorrow: Touch also the hearts &amp; entrayles of every one of us, that following thy liberalitie towards us, we may willingly and frankly distribute of our goods to sustain the necessitie of the afflicted, as members of the same bodie, and entertaining the communion, which ought to be between the faithfull, we may shew by effect that we are true members of the Church.</p>
+               <p>Laying on of hands.</p>
+               <p>I lay upon him the hands in the name of the Consistory, by which imposition of hands, you are advertised that you are set apart from the affaires of this world, whether they be your own or any others (in so much as they may hinder the charge you are called unto) to be dedicated &amp; consecrated to the holy service of God. Moreover, that in doing your dutie faithfully, roundly, and in all simpli<g ref="char:EOLhyphen"/>citie (as before God) you shall be assured of the assistance of the hand of God, helpfull unto you in all your necessi<g ref="char:EOLhyphen"/>tie: And therefore that you be not discouraged for the afflictions that may come upon you in executing your charge, rather that you may sustain constantly and in all patience, contempt, shame, and reproach of men given in this world, both which things being signified by this ceremony, God by his mercy and faithfulnesse accom<g ref="char:EOLhyphen"/>plish and perfect in you, in the name of his Sonne Jesus Christ our Saviour.</p>
+            </div>
+            <div type="exhortation">
+               <pb n="30" facs="tcp:156482:17"/>
+               <head>A generall Admonition to the people for all the Officers of the Church.</head>
+               <p>ANd as for you Brethren and Sisters know, that the dutie of the Church towards the Brother present, is to receive him willingly, as sent of God, bearing him ho<g ref="char:EOLhyphen"/>nour and reverence, in regard of his Charge, the which he executeth towards you: Take heed that you mur<g ref="char:EOLhyphen"/>mur not against him, or against his Ministery in any sort whatsoever, for the Lord will not leave unpunished the contempt of his servants, and much lesse the murmuring and rash rebellion against their persons: As the horrible examples that may be seene in the Scriptures doe plainly testifie. It is also required of you that you pray unto God for him, to this end that he may execute the office God hath called him unto in all wisdome and faithfulnesse, referring all to Gods glory, and the edification of his Church, whereof he hath charge.</p>
+               <p>Speciall for the Minister of the Word.</p>
+               <p>Which you shall doe so much more carefully for him in regard that his charge is of so great importance, as well for the glory of God, as for the salvation of us all, as you have partly understood by the dutie which hath been al<g ref="char:EOLhyphen"/>ready recited. To the end that speech may be given him and a mouth opened in all boldnesse to make known the secret of the Gospell, and to speak frankly as it behoveth him to speak. Secondly, it is meet you know that the of<g ref="char:EOLhyphen"/>fice of the Church towards the Ministers is to entertaine them honestly, according to their power and abilitie: for it is good reason that seing they sow spirituall things, they should reap the corporall things: And that the Oxe that teadeth out the graine, should not want feeding, as S<seg rend="sup">t</seg>
+                  <hi>Paul</hi> teacheth: Therefore also you shall have this our Brother for recommended as touching his entertain<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
